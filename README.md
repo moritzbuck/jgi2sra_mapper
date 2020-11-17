@@ -14,7 +14,8 @@ Needs `biopython`, easily installable with `pip install biopython` for example
 python jgi2sra_mapper.py NCBI_USER GOLD_IDS OUTPUT_FILE
 ```
 
-with `NCBI_USER` the email you use to log into NCBI, `GOLD_IDS` a text file with a 'Gold Stamp ID', typically an ID from IMG/JGI starting with Gp, the file provided with this archive (`GEMs_metagenomes_ids.txt`) is the third column of Supplemental Table 1 of Nayfach et al. `OUTPUT_FILE` is the name of the file you want the output saved in.
+with `NCBI_USER` the email you use to log into NCBI, `GOLD_IDS` a text file with a 'Gold Stamp ID', typically an ID from IMG/JGI starting with Gp, the file provided with this archive (`GEMs_metagenomes_ids.txt`) is the third column of Supplemental Table 1 of Nayfach et al. `OUTPUT_FILE` is the name of the file you want the output saved in (the output `gold2sra.json` is the one generated with `GEMs_metagenomes_ids.txt`).
+
 
 ## Acknowlegments
 Thanks Maliheh Mehrshad, Julia Nuy, Alejandro Rodriguez Gijón and Sarahi L. Garcia, as well as the whole team at IMG and JGI for the 'inspiration' for this...
