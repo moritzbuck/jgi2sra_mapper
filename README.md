@@ -4,7 +4,7 @@ Really convinent if you want to use the metagenomic libraries used in Nayfach et
 
 Can easily be modified to obtain other samples.
 
-Also, JGI provides similar files here (https://gold.jgi.doe.gov/downloads)
+Also, JGI provides similar files here https://gold.jgi.doe.gov/downloads
 
 ## REQUIREMENTS
 
@@ -25,7 +25,7 @@ Thanks Maliheh Mehrshad, Julia Nuy, Alejandro Rodriguez Gijón and Sarahi L. Gar
 ## REFERENCES
 
 Nayfach, S., Roux, S., Seshadri, R. et al. A genomic catalog of Earth’s microbiomes. Nat Biotechnol (2020). https://doi.org/10.1038/s41587-020-0718-6
-Also, JGI provides similar files here (https://gold.jgi.doe.gov/downloads)
+Also, JGI provides similar files here https://gold.jgi.doe.gov/downloads
 
 ## CITE
 
